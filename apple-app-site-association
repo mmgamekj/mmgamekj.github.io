@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4BSB4VW69P.com.yh.youhao",
+        "paths": [
+          "/youhao/*"
+        ]
+      },
+      {
+        "appID": "697GLTC7Z6.com.xjbg.test.project",
+        "paths": [
+          "/youhao/*"
+        ]
+      }
+    ]
+  }
+}
